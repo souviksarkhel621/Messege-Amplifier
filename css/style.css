@@ -1,0 +1,53 @@
+.Head {
+  background-color: #cc0000;
+  text-align: center;
+  padding: 5px;
+}
+
+h1 {
+  color: white;
+  font-size: 90px;
+}
+h2 {
+  color: white;
+}
+p{
+  font-size: 1.2em;
+}
+
+.Body {
+  font-size: 30px;
+  text-align: center;
+  background-color: #c1f5f2;
+  padding-top: 30px;
+  padding-bottom: 25px;
+}
+
+.xx {
+  padding-top: 10px;
+}
+
+#btn {
+  background-color: #e04fab;
+  color: white;
+  padding: 5px;
+  font-size: 20px;
+}
+.output{
+  background-color: #254878;
+  padding-left: 125px;
+  padding-right:  125px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.opconsole{
+  background-color: #e3eefc;
+  padding: 20px;
+  padding-left: 50px;
+}
+.footer {
+  background-color: #2ab4c9;
+  text-align: center;
+  padding: 10px;
+  font-size: 25px;
+}
